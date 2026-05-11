@@ -1,0 +1,1 @@
+Déclarer variable pour les murs, plusieurs fichiers
